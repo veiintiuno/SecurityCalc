@@ -36,7 +36,7 @@ gcc -Iinc src/main.c src/calculator.c -o securecalc.exe
 Linux/Mac
 bash
 make
-🎮 Uso
+  Uso
 Ejecutar ./securecalc (Linux/Mac) o securecalc.exe (Windows).
 
 Seleccionar operación del menú.
