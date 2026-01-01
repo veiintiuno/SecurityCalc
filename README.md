@@ -4,6 +4,7 @@ markdown
 ##  Acerca del Proyecto
 **SecureCalc** es mi primer proyecto en C después de solo 2 días estudiando el lenguaje.  
 Desarrollado con enfoque en **arquitectura modular** y **buenas prácticas** para simular un proyecto real.
+Validación de entrada básica implementada. Pendiente: manejo de caracteres no numéricos usando strtol()/fgets().
 
 ## Objetivos de Aprendizaje
 - Aplicar conceptos básicos de C (funciones, tipos de datos, control de flujo).
