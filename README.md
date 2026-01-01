@@ -21,16 +21,14 @@ SecureCalc/
 ├── Makefile # Automatización de compilación
 └── README.md # Documentación
 
-text
-
-## ⚙️ Características
+##  Características
 -  **Operaciones básicas:** suma, resta, multiplicación, división.
 -  **Validación:** división por cero, opciones inválidas.
 -  **Interfaz interactiva:** menú con bucle continuo.
 -  **Modularidad:** código separado en múltiples archivos.
 -  **Portable:** compila en Windows/Linux.
 
-## 🔧 Compilación
+##  Compilación
 ### Windows (PowerShell)
 ```powershell
 gcc -Iinc src/main.c src/calculator.c -o securecalc.exe
