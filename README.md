@@ -1,6 +1,11 @@
 markdown
 # SecureCalc - Calculadora Modular en C
 
+Nuevo: Historial de operaciones
+- Guarda automáticamente las últimas 5 operaciones.
+- Implementado con array circular para gestión eficiente de memoria.
+- Accesible desde el menú principal (Opción 5).
+
 ##  Acerca del Proyecto
 **SecureCalc** es mi primer proyecto en C después de solo 2 días estudiando el lenguaje.  
 Desarrollado con enfoque en **arquitectura modular** y **buenas prácticas** para simular un proyecto real.
